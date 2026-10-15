@@ -10,7 +10,7 @@
 | E1 | + `class_weight="balanced"` | 0.464 | 0.805 | 0.350 | 0.796 | 0.486 |
 | E2 | + engineered features | | | | | |
 | E3 | + features + balanced | | | | | |
-| E4 | Gradient boosting + features + balanced | | | | | |
+| E4 | Gradient   boosting + features + balanced | | | | | |
 
 > Fill in E2–E4 from `python -m lessons.lesson4_features_imbalance`.
 
